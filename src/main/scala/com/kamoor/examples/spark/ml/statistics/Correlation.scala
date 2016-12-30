@@ -9,7 +9,7 @@ import org.apache.spark.{SparkConf, SparkContext}
  * Pass an s3 or hdfs location of the input file contains  one x,y pair per line
  *
  * To Submit:
- * spark-submit --class com.kamoor.examples.spark.ml.statistics.Correlation spark-ml-examples-1.0-SNAPSHOT.jar s3://dp-emr-general/kamoor/xy.txt
+ * spark-submit --class com.kamoor.examples.spark.ml.statistics.Correlation spark-ml-examples-1.0-SNAPSHOT.jar s3://kamoorr/xy.txt
  *
  * Sample xy.txt in resources/test-files/xy.txt
  *
