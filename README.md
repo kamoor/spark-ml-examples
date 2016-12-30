@@ -1,8 +1,7 @@
 This project contains spark-ml algorithms examples
 
 #### Setup
-Install scala 
-Install spark 
+Install scala and spark
 
 
 #### How to Run
@@ -15,5 +14,5 @@ Install spark
 
 1. Pearson’s Correlation Coefficient (See Correlation.scala)
    Ref: http://www.statisticshowto.com/how-to-compute-pearsons-correlation-coefficients/
-2. Spearmans's Correlation Coefficient (See Correlation.scala)
+2. Spearmans's Correlation Coefficient (See Correlation.scala)  
    Ref: https://statistics.laerd.com/statistical-guides/spearmans-rank-order-correlation-statistical-guide-2.php
